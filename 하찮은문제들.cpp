@@ -15,7 +15,7 @@ int main()
 
 	for (int i = 1; i < k + 1; i++)
 	{
-		result /= i;
+		result /= i; //수정
 	}
 
 	cout << result;
